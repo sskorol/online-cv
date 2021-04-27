@@ -113,7 +113,7 @@ projects:
                     
     - title: Smart Assistant
       link: "#"
-    - tagline: 'Voice assistant / chatbot, managed by different Google services.
+      tagline: 'Voice assistant / chatbot, managed by different Google services.
                   <div><br><u>Role</u>: Role: Backend Developer, Tech Lead.
                   <div><u>Stack</u>:</div>
                   <div><ul>
