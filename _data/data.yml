@@ -32,12 +32,11 @@ sidebar:
   interests:
     - interest:
       item: Sport
-      link: http://gagarina.gym4fit.com
     - interest:
       item: Travelling
       link: https://www.instagram.com/s_korol
     - interest:
-      item: Testing / Programming
+      item: QA / Programming
       link: https://github.com/sskorol
     - interest:
       item: IoT
@@ -53,23 +52,22 @@ career-profile:
   title: Career Profile
   summary:
     '<div><ul>
-            <li>About 11 years experience in Software Testing.</li>
-            <li>About 9 years experience in Test Automation.</li>
-            <li>Strong knowledge: Java/TS, Selenium WebDriver/Grid, Selenoid, Appium, SikuliX, WebdriverIO, TestNG/Mocha, Allure, RestAssured, Jenkins, Git, Docker, REST, SQL, Google Cloud.</li>
+            <li>About 12 years experience in IT.</li>
+            <li>Strong knowledge: Java/TS, Selenium WebDriver/Grid, Selenoid, Appium, WebdriverIO, TestNG/Mocha, Allure, RestAssured, Jenkins/GitLab, Git, Docker, REST, SQL, AWS/Google Cloud.</li>
             <li>Experience in creating test automation frameworks / raising up automation infrastructure from scratch.</li>
+            <li>Several years experiance in BE-development and Tech Leading.</li>
             <li>Certifications: <a href="https://www.coursera.org/account/accomplishments/professional-cert/J35RUADXFBFQ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharebutton_course&utm_product=prof"><b>Cloud Engineering with Google Cloud</b></a>, ISTQB.</li>
-            <li>Open source contributions: <a href="https://github.com/atinfo/at.info-knowledge-base"><b>AT-INFO</b></a>, <a href="https://github.com/allure-framework"><b>Allure</b></a>, <a href="https://github.com/cbeust/testng"><b>TestNG</b></a>, <a href="https://github.com/webdriverio/webdriverio"><b>WebdriverIO</b></a>, <a href="https://github.com/allure-framework/allure-js"><b>Allure-JS</b></a>, <a href="https://github.com/alphacep/vosk-server"><b>VOSK</b></a></li>
-            <li>Moderating and posting at <a href="https://automated-testing.info/u?period=all"><b>AT-INFO</b></a></li>
+            <li>Open source contributions: <a href="https://github.com/atinfo/at.info-knowledge-base"><b>AT-INFO</b></a>, <a href="https://github.com/allure-framework"><b>Allure</b></a>, <a href="https://github.com/cbeust/testng"><b>TestNG</b></a>, <a href="https://github.com/webdriverio/webdriverio"><b>WebdriverIO</b></a>, <a href="https://github.com/allure-framework/allure-js"><b>Allure-JS</b></a>, <a href="https://github.com/alphacep/vosk-server"><b>Vosk Server</b></a>, <a href="https://github.com/alphacep/vosk-api"><b>Vosk API</b></a></li>
             <li>Software Development <a href="http://sdclabs.com"><b>consulting service</b></a></li>
             <li><a href="https://www.youtube.com/playlist?list=PLwP4JKXOLdPNS21LULLMRujEtU_9GrX16"><b>QAFest and SeleniumCamp</b></a> speaker</li>
           </ul></div>
 
           <div>I started career as a Manual Test Engineer. Have passed a long way from Junior up to Test Lead position. Have 6+ years experience in a management of test teams up to 5 members for projects of different complexity. Since 2012 till 2018 have been fully concentrated on Software Test Automation (mostly web direction). Developed several Selenium-driven frameworks with successful usage experience on big projects.<br><br>
-          Couple of years ago I switched to pure BE Development to get a better understanding of all the internal development processes. In 6 months my proactiveness lead me to a Tech Lead position promotion.<br><br>
-          Consulting and mentoring automation engineers within local / customers teams and via external consulting services. Providing internal Test Automation trainings. Continuously improving skills in Java / TS and latest test automation trends. Tech talks / conferences speaker.<br><br>
+          Several years ago I switched to BE Development to get a better understanding of all the internal development processes. In 6 months my proactiveness lead me to a Tech Lead position promotion.<br><br>
+          Consulting and mentoring Test Automation Engineers within local / customers teams and via external consulting services. Providing internal Test Automation trainings. Continuously improving skills in Java / TS / C++ / Python and latest test automation trends. Tech talks / conferences speaker.<br><br>
           Participating in company pre-sales and projects audits.<br><br>
           Strong experience in testing of large scale, highly available / specific private B2C / B2B applications including Internet shops, jobs / health & care sites, cloud payment solutions, financial and secret government applications, voice assistants/chatbots, etc.<br><br>
-          Strong knowledge of software testing fundamentals, testing throughout the software life cycle, test design techniques, test management and tool support for testing.</div>'
+          Strong knowledge of software testing fundamentals, testing throughout the software life cycle, test design techniques, test management and tool support for testing, as well as the best development practices.</div>'
 
 education:
   - degree: MSc in System Analysis and Management
@@ -101,10 +99,22 @@ projects:
     Here you can find a list of open source and commercial projects I've been working on for the past 5 years. Please note that commercial projects names are not real due to NDA.
 
   assignments:
+    - title: Outliner
+      link: "#"
+      tagline: 'Cloud-based platform for building and managing marketing plans, budgets, and ROI.
+                  <div><br><u>Role</u>: Technical QA Manager / BE Developer</div>
+                  <div><u>Stack</u>:</div>
+                  <div><ul>
+                    <li>BE: Python, Django, PostgreSQL</li>
+                    <li>FE: Angular</li>
+                    <li>Cloud: AWS</li>
+                    <li>Test Automation: Java, Gradle, TestNG, Selenide, RestAssured, Allure, Selenoid, Docker</li>
+                    <li>CI/CD: GitLab</li></ul></div>'
+                    
     - title: Smart Assistant
       link: "#"
-      tagline: 'Voice assistant / chatbot, managed by different Google services.
-                  <div><br><u>Role</u>: Backend Developer, Tech Lead.</div>
+    - tagline: 'Voice assistant / chatbot, managed by different Google services.
+                  <div><br><u>Role</u>: Role: Backend Developer, Tech Lead.
                   <div><u>Stack</u>:</div>
                   <div><ul>
                     <li>BE: Typescript, NestJS/Typeorm, Jest, Python, Flask, ML (numpy, scikit-learn, NLTK, FastText, Annoy)</li>
@@ -187,10 +197,14 @@ projects:
     - title: Test Automation Playground
       link: "https://github.com/sskorol/test-automation-playground"
       tagline: "ReactJS application with Spring Boot / MySQL backend created for practicing automation skills."
+      
+    - title: Respeaker WebSockets
+      link: "https://github.com/sskorol/respeaker-webdockets"
+      tagline: "This C++ project reveals full Respeaker Core V2 potential by using bundled Alango DSP algorithms for audio pre-processing before sending to the custom ASR server."
 
     - title: Arduino Sensors Wrappers
       link: "https://github.com/sskorol/arduino-sensors-wrappers"
-      tagline: "A small library which allows quick prototyping for Arduino-like controllers in OO-manner."
+      tagline: "A small C++ library which allows quick prototyping for Arduino-like controllers in OO-manner."
 
 skills:
   title: Skills &amp; Proficiency
@@ -213,17 +227,11 @@ skills:
     - name: Appium
       level: 70%
 
-    - name: JMeter / Gatling
-      level: 50%
-
     - name: Java / OOP / Design Patterns
-      level: 85%
+      level: 80%
 
     - name: Javascript / Typescript
       level: 70%
-
-    - name: Spring Boot
-      level: 50%
 
     - name: NestJS / TypeORM
       level: 75%
@@ -231,13 +239,13 @@ skills:
     - name: ReactJS / MobX
       level: 40%
 
-    - name: Python / Flask
+    - name: Python / Flask / Django
       level: 35%
 
     - name: Gradle / Maven / NPM / Yarn
       level: 90%
 
-    - name: SQL / NoSQL DB
+    - name: SQL / NoSQL
       level: 70%
 
     - name: Git
@@ -245,6 +253,9 @@ skills:
 
     - name: Jenkins
       level: 90%
+      
+    - name: GitLab
+      level: 30%
 
     - name: Docker
       level: 75%
